@@ -43,4 +43,4 @@ def lookup(name: str) -> str:
     )
 
     linked_profile_url = result["output"]
-    return linked_profile_url
+    return linked_profile
